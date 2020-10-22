@@ -67,3 +67,7 @@
 >4. Fazer verificação de plugins
 
 ![imagem verificação de plugins](https://github.com/Wellikson/Instalacao-Moodle/blob/main/plugins.png)
+
+>5. Por ultimo fazer a configuração de acesso criando usuario , loguin e senha.
+
+![imagem configuração de acesso](https://github.com/Wellikson/Instalacao-Moodle/blob/main/plugins.png)
