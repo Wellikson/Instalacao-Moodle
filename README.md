@@ -70,4 +70,4 @@
 
 >5. Por ultimo fazer a configuração de acesso criando usuario , loguin e senha.
 
-![imagem configuração de acesso](https://github.com/Wellikson/Instalacao-Moodle/blob/main/plugins.png)
+![imagem configuração de acesso](https://github.com/Wellikson/Instalacao-Moodle/blob/main/Screen%20Capture_select-area_20201022165351.png)
