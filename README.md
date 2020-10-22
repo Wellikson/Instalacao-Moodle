@@ -38,7 +38,7 @@
 
 >criar banco de dados
 
-![imagem criando banco de dandos]()
+![imagem criando banco de dandos](https://github.com/Wellikson/Instalacao-Moodle/blob/main/criarBanco.png)
 
 ## Passo 8
 
@@ -46,7 +46,7 @@
 
 >http://ip_servidor
 
-![imagem servidor web]()
+![imagem servidor web](https://github.com/Wellikson/Instalacao-Moodle/blob/main/servidor.png)
 
 ## Passo 9
 
@@ -54,16 +54,16 @@
 
 >1. Selecionar idioma.
 
-![imagem servidor web]()
+![imagem seleção de idioma](https://github.com/Wellikson/Instalacao-Moodle/blob/main/linguagem.png)
 
 >2. configurar endereço web, selecionar diretorio de dados e do do Moodle.
 
-![imagem servidor web]()
+![imagem diretorios](https://github.com/Wellikson/Instalacao-Moodle/blob/main/diretorios.png)
 
 >3. Escolher driver do Banco de dados.
 
-![imagem servidor web]()
+![imagem driver do Banco de dados](https://github.com/Wellikson/Instalacao-Moodle/blob/main/driverbanco.png)
 
 >4. Fazer verificação de plugins
 
-![imagem servidor web]()
+![imagem verificação de plugins](https://github.com/Wellikson/Instalacao-Moodle/blob/main/plugins.png)
